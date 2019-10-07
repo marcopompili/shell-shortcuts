@@ -3,12 +3,13 @@ alias c.="cd ."
 alias c..="cd .."
 alias cd.="cd ."
 alias cd..="cd .."
-alias cl="clear"
 
 alias l="ls"
-alias ll="ls -l"
-alias lh="ls -lh"
 alias la="ls -la"
+alias lh="ls -lh"
+alias ll="ls -l"
+
+alias cl="clear"
 
 alias s="sudo"
 alias wd="sudo -u www-data"
